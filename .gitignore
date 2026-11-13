@@ -1,0 +1,25 @@
+# Secrets (never commit API keys)
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node / React
+node_modules/
+relay-ui/node_modules/
+relay-ui/dist/
+npm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

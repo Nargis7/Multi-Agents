@@ -1,0 +1,42 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+
+
+
+
+rich
+
+
+streamlit
+
+ollama
+
+# ==============================
+# LLM & API Integration
+# ==============================
+openai
+langchain-tavily
+tavily-python
+
+# ==============================
+# Web Scraping
+# ==============================
+beautifulsoup4
+requests
+lxml
+
+# ==============================
+# Environment & Configuration
+# ==============================
+python-dotenv
+pydantic
+typing-extensions
+
+# ==============================
+# Development & Testing
+# ==============================
+ipykernel
+pytest
